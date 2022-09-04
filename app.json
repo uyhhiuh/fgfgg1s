@@ -1,5 +1,5 @@
 {
-    "name": "githubname",
+    "name": "fgfgg1s",
     "description": "githubname",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "66933154-8ac9-4e6b-9727-82ccb7646a49"
+            "value": "6cf801cf-b309-47bd-8178-043a2b7143bc"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考readme.md中的（5：Caddy主页配置）",
